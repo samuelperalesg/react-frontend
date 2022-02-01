@@ -12,7 +12,7 @@ ReactDOM.render(
     <React.StrictMode>
       <App />
     </React.StrictMode>
-  </Router>,
+  </Router>,  // ==== make router tags and move comma for frontend react!! ====
   document.getElementById("root")
 );
 
